@@ -1,4 +1,7 @@
 
+
+
+
 def nyc_pigeon_organizer(data)
    new_hash = {}
    pigeon_data.each do |attribute, data|
